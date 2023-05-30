@@ -1,0 +1,3 @@
+git add <nama_file_ekspor>
+git commit -m "Menambahkan file ekspor database MySQL"
+git push origin master
